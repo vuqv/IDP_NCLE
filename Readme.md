@@ -10,6 +10,7 @@ This repository contains code and data related to the study of non-covalent lass
 - Data files:
   - `fully_idp.pkl`, `fully_structure.pkl`, `long_idr.pkl`: Pickle files containing processed data.
   - `PED_all_exp_entries.xlsx`: Excel file with all experimental entries.
+  - `PED2023/`: Code to retrive the disorder information from MobiDB and results of entanglement analyses of PED ensembles.
 
 ## Coarse-Grain Simulation of Synthetic Polymer Chains
 - Scripts and data for simulating synthetic polymer chains with different residue lengths (N=100, 200, 300).
